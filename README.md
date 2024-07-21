@@ -56,10 +56,3 @@ ft_lstiter: Applies a function to each element of a list.
 ft_lstmap: Applies a function to each element of a list to create a new list.
 Personal Functions
 These are custom functions you find useful and decide to include in your library.
-
-Installation
-To get a local copy up and running, follow these steps:
-
-Clone the repository: git clone https://github.com/Miami05/Libft_42.git
-Navigate to the project directory: cd libft
-Compile the library: Run make to create a libft.a file.
